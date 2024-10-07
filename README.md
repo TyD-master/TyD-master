@@ -15,6 +15,3 @@ Welcome to **TyD-master**, a team of professionals specialized in **software dev
 - Email:  help.tyd@outlook.com
   
 ## 😄 Pronouns: We prefer: **they/them** for the team.
-
-## ⚡ Fun fact:
-- We love **hackathons**! They fuel our creativity and keep us ahead of the game. We also enjoy breaking down complex security challenges over a cup of coffee.
